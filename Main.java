@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        cat = new Cat();
+       Cat cat = new Cat();
         cat.meow();
     }
 
@@ -10,4 +10,16 @@ public class Main {
             System.out.println("Meow");
         }
     }
+
 }
+
+
+
+
+
+
+
+
+
+
+
