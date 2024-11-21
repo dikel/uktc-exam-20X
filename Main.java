@@ -1,13 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-        Car car = new Car;
+        Cat Cat = new Cat;
         mouse.squeak();
     }
 
-    static class Mouse {
+    static class Cat {
         public static void squeak() {
-            System.println("brum brum");
+            System.println("muq");
         }
     }
 }
