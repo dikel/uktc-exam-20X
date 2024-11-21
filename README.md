@@ -5,3 +5,5 @@ This is exam for class 202
 Code contributors:
 - Deyan Dimitrov 14210
 - John Doe 20299
+Име: Marian Marinov
+Курс: 20219
