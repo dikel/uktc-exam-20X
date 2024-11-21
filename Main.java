@@ -6,7 +6,7 @@ public class Main {
     }
 
     static class Mouse {
-        squeak() {
+        public static void squeak() {
             System.println("Squeak");
         }
     }
