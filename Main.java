@@ -1,12 +1,14 @@
 public class Main {
 
     public static void main(String[] args) {
-        cat = new Cat();
+        // Декларираме и инициализираме обект от тип Cat
+        Cat cat = new Cat();
         cat.meow();
     }
 
     static class Cat {
-        meow() {
+        // Методът има връщан тип void
+        void meow() {
             System.out.println("Meow");
         }
     }
