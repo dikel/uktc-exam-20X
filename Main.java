@@ -9,7 +9,8 @@ public class Main {
     static class Cat {
         // Методът има връщан тип void
         void meow() {
-            System.out.println("Meow");
+            System.out.println("Meow");//printiram meow
         }
     }
+    
 }
