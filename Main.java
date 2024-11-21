@@ -8,6 +8,7 @@ public class Main {
     static class Mouse {
         squeak() {
             System.println("Squeak");
+	    System.println("Changed code")
         }
     }
 }
