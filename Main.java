@@ -6,8 +6,8 @@ public class Main {
     }
 
     static class Dog {
-        bark() {
-            println("Bark");
+       static void bark() {
+            System.out.println("Bark");
         }
     }
 }
