@@ -9,6 +9,6 @@ public class Main {
 class Mouse {
         squeak() {
             System.println("Squeak");
-	}o    
+	}    
 }
 
