@@ -1,13 +1,13 @@
 public class Main {
 
     public static void main(String[] args) {
-        cat = new Cat();
-        cat.meow();
+        Cat cat = new Cat(); // Create a new Cat instance
+        cat.meow(); // Call the meow method
     }
 
     static class Cat {
-        meow() {
-            System.out.println("Meow");
+        void meow() { // Add the return type 'void' to the method
+            System.out.println("Meow"); // Print "Meow"
         }
     }
-}
+}update my guy
