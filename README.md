@@ -1,4 +1,5 @@
-# uktc-exam-20X
+# uktc-exam-20220
+Martin Vitanov 20220
 
 This is exam for class 202
 
