@@ -3,8 +3,8 @@ public class Main {
     public static void main(String[] args) {
         Dog dog;
         dog.bark();
-        Cat cat;
-        cat.meow();
+        People people;
+        people.fight();
     }
 
     static class Dog {
@@ -12,9 +12,9 @@ public class Main {
             println("Bark");
         }
     }
-    static class Cat {
-        meow() {
-            println("Meow");
+    static class People {
+        fight() {
+            println("FIGHT");
         }
     }
 }
