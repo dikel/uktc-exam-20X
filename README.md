@@ -1,1 +1,8 @@
-# uktc-exam-20X
+# uktc-exam-20220
+Martin Vitanov 20220
+
+This is exam for class 202
+
+Code contributors:
+- Deyan Dimitrov 14210
+- John Doe 20299
