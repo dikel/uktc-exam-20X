@@ -7,7 +7,7 @@ public class Main {
 
     static class Cat {
         meow() {
-            System.out.println("Meow");
+            System.out.println("hi");
         }
     }
 }
