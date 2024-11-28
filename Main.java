@@ -7,7 +7,7 @@ public class Main {
 
     static class Dog {
         bark() {
-            println("Bark");
+            println("It doesn't barks");
         }
     }
 }
