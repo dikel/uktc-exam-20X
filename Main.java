@@ -3,6 +3,8 @@ public class Main {
     public static void main(String[] args) {
         Dog dog;
         dog.bark();
+        Cow cow;
+        cow.moo();
     }
 
     static class Dog {
@@ -10,4 +12,11 @@ public class Main {
             println("Bark");
         }
     }
+
+    static class Cow {
+        moo() {
+            println("MOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO");
+        }
+    }
+
 }
