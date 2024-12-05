@@ -4,10 +4,11 @@ public class Main {
         Mouse mouse = new Mouse;
         mouse.squeak();
     }
-
+       
     static class Mouse {
         squeak() {
             System.println("Squeak");
+		System.println("20410")
         }
     }
 }
